@@ -13,13 +13,13 @@ background-color: #eee;
 h1,a{
     color: #ff0;
 }
-li.colorRed{
+li#colorRed{
 color: #f00;
 }
 li.colorBlue{
     color: #00f;
 }
-input[type"text"]{
+input[type="text"]{
     background-color: #eee;
 }
 #red{

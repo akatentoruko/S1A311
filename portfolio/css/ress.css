@@ -281,3 +281,7 @@ progress {
 [aria-disabled] {
   cursor: default;
 }
+body{
+  background: url(huriko.jpg)#fff left top repeat;
+  text-align:center ;
+}
